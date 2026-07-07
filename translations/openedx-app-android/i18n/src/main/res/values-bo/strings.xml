@@ -362,12 +362,7 @@
     <string name="profile.profile_no_sync_courses">ད་ལྟ་སློབ་ཚན་གང་ཡང་ཁྱེད་ཀྱི་ཟླ་ཐོ་ལ་མཉམ་སྒྲིག་བྱེད་ཀྱི་མེད།</string>
     <string name="profile.profile_no_courses_with_current_filter">སློབ་ཚན་གང་ཡང་ད་ལྟའི་ཚགས་རླུང་དང་མཐུན་མི་ཐུབ།</string>
     <string name="profile.profile_show_full_dates">ཚེས་གྲངས་ཆ་ཚང་སྟོན། དཔེར་ན། “ %1$s ”</string>
-    <string name="app.action_settings">སྒྲིག་འགོད།</string>
-    <string name="app.next">རྗེས་མ།</string>
-    <string name="app.previous">སྔོན་མ།</string>
-    <string name="app.app_navigation_discovery">གསལ་སྟོན།</string>
     <string name="app.app_navigation_learn">སློབ་གཉེར།</string>
-    <string name="app.app_navigation_programs">ལས་རིམ་ཁག</string>
     <string name="app.app_navigation_profile">ངོ་སྤྲོད་སྙིང་བསྡུས།</string>
     <string name="core.core_results">མཇུག་འབྲས།</string>
     <string name="core.core_error_invalid_grant">དཔང་ལྡན་མི་འདུག</string>
