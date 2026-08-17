@@ -17311,8 +17311,8 @@ msgstr "Kursus Terbuka"
 msgid "Go to main page"
 msgstr "Pergi ke halaman utama"
 
-msgid "Privacy Policy for Sherab"
-msgstr "Kebijakan Privasi Sherab"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "Kebijakan Privasi WeBuddhist Academy"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Hai {username}, selamat datang di {platform_name}"

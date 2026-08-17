@@ -24193,5 +24193,5 @@ msgstr ""
 msgid "Go to main page"
 msgstr ""
 
-msgid "Privacy Policy for Sherab"
+msgid "Privacy Policy for WeBuddhist Academy"
 msgstr ""

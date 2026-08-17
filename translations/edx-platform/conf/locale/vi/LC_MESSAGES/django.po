@@ -26613,8 +26613,8 @@ msgstr "Trình chỉnh sửa mã"
 msgid "Go to main page"
 msgstr "Đi đến trang chính"
 
-msgid "Privacy Policy for Sherab"
-msgstr "Chính sách quyền riêng tư của Sherab"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "Chính sách quyền riêng tư của WeBuddhist Academy"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Chào {username}, chào mừng đến với {platform_name}"

@@ -27770,8 +27770,8 @@ msgstr "Editor de código"
 msgid "Go to main page"
 msgstr "Ir a la página principal"
 
-msgid "Privacy Policy for Sherab"
-msgstr "Política de privacidad de Sherab"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "Política de privacidad de WeBuddhist Academy"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Hola {username}, bienvenido a la plataforma {platform_name}"

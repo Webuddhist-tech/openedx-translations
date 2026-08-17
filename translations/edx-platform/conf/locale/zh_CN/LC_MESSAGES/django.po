@@ -22083,8 +22083,8 @@ msgstr "开放课程"
 msgid "Go to main page"
 msgstr "前往主页"
 
-msgid "Privacy Policy for Sherab"
-msgstr "Sherab 隐私政策"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "WeBuddhist Academy 隐私政策"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "你好，{username}，欢迎来到{platform_name}"

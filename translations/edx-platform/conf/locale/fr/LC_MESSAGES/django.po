@@ -150,8 +150,8 @@ msgstr "Cours ouvert"
 msgid "Go to main page"
 msgstr "Aller à la page principale"
 
-msgid "Privacy Policy for Sherab"
-msgstr "Politique de confidentialité de Sherab"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "Politique de confidentialité de WeBuddhist Academy"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Bonjour {username}, bienvenue sur {platform_name}"

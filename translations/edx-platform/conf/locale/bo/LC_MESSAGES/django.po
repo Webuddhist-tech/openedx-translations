@@ -8269,8 +8269,8 @@ msgstr "Otvoreni kurs"
 msgid "Go to main page"
 msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
 
-msgid "Privacy Policy for Sherab"
-msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"
+msgid "Privacy Policy for WeBuddhist Academy"
+msgstr "WeBuddhist Academy ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"
