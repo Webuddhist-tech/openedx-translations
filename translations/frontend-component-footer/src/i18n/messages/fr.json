@@ -29,8 +29,8 @@
   "footer.logo.altText": "",
   "footer.logo.ariaLabel": "",
   "footer.ariaLabel": "",
-  "authoring.footer.help.openHelp.button.label": "",
-  "authoring.footer.help.closeHelp.button.label": "",
+  "authoring.footer.help.openHelp.button.label": "Recherche d'aide sur Studio ?",
+  "authoring.footer.help.closeHelp.button.label": "Masquer l'aide Studio",
   "authoring.footer.help.educatorsDocs.button.label": "",
   "authoring.footer.help.openEdxDemoCourse.button.label": "",
   "authoring.footer.help.contactUs.button.label": "",
@@ -38,8 +38,8 @@
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "",
   "authoring.footer.trademark.message": "",
-  "footer.logo.hoverText": "Aller à la page principale",
-  "footer.colophon.about": "À propos de nous",
+  "footer.logo.hoverText": "Aller \u00e0 la page principale",
+  "footer.colophon.about": "\u00c0 propos de nous",
   "footer.colophon.contact": "Contactez-nous",
-  "footer.colophon.privacy": "Politique de confidentialité"
+  "footer.colophon.privacy": "Politique de confidentialit\u00e9"
 }
