@@ -34,7 +34,7 @@
   "learnerVariantDashboard.menu.account.label": "Account",
   "learnerVariantDashboard.menu.orderHistory.label": "Order History",
   "learnerVariantDashboard.menu.signOut.label": "Sign Out",
-  "learnerVariantDashboard.course": "Courses",
+  "learnerVariantDashboard.course": "Dashboard",
   "learnerVariantDashboard.program": "Programs",
   "learnerVariantDashboard.discoverNew": "Discover New",
   "learnerVariantDashboard.logoAltText": "edX, Inc. Dashboard",
@@ -146,5 +146,12 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "View Credit",
   "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
   "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.progressBar.notStarted": "Not started",
+"learnerVariantDashboard.wishlist": "Wishlist",
+"learnerDashboard.programCard.courses": "{numCourses} Courses",
+"learnerDashboard.programCard.duration": "{numWeeks} Weeks",
+"learnerDashboard.programCard.logoAlt": "{provider} logo",
+"learnerDashboard.programCard.bannerAlt": "",
+"learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} Related Programs",
+"learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} Related Program"
 }

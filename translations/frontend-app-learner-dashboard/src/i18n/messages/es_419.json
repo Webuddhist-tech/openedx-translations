@@ -34,9 +34,9 @@
   "learnerVariantDashboard.menu.account.label": "Cuenta",
   "learnerVariantDashboard.menu.orderHistory.label": "Historial de órdenes",
   "learnerVariantDashboard.menu.signOut.label": "Cerrar sesión",
-  "learnerVariantDashboard.course": "cursos",
+  "learnerVariantDashboard.course": "Panel de control",
   "learnerVariantDashboard.program": "Programas",
-  "learnerVariantDashboard.discoverNew": "Encontrar nuevo",
+  "learnerVariantDashboard.discoverNew": "Encontrar curso",
   "learnerVariantDashboard.logoAltText": "Tablero de edX, Inc.",
   "learnerVariantDashboard.collapseMenuOpenAltText": "Menú",
   "learnerVariantDashboard.collapseMenuClosedAltText": "Cerrar",
@@ -146,5 +146,12 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "Ver crédito",
   "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles",
   "learner-dash.courseCard.progressBar.courseCompletion": "Curso • {percent}% Completo",
-  "learner-dash.courseCard.progressBar.notStarted": "No iniciado"
+  "learner-dash.courseCard.progressBar.notStarted": "No iniciado",
+"learnerVariantDashboard.wishlist": "Lista de deseos",
+"learnerDashboard.programCard.courses": "{numCourses} cursos",
+"learnerDashboard.programCard.duration": "{numWeeks} semanas",
+"learnerDashboard.programCard.logoAlt": "Logotipo de {provider}",
+"learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} programas relacionados",
+"learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} programa relacionado",
+"learnerDashboard.programCard.bannerAlt": ""
 }

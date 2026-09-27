@@ -55,5 +55,7 @@
   "profile.formcontrols.button.saving": "Guardando",
   "profile.formcontrols.button.saved": "Guardado",
   "profile.visibility.who.just.me": "Solo yo",
-  "profile.visibility.who.everyone": "Todos en {siteName}"
+  "profile.visibility.who.everyone": "Todos en {siteName}",
+"tooltip-top": "Cargar foto",
+"social-error-feedback": "Agregar perfil de {network}"
 }
