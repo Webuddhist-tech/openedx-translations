@@ -34,7 +34,6 @@
   "learnerVariantDashboard.menu.account.label": "Tài khoản",
   "learnerVariantDashboard.menu.orderHistory.label": "lịch sử đơn hàng",
   "learnerVariantDashboard.menu.signOut.label": "Đăng xuất",
-  "learnerVariantDashboard.course": "Khóa học",
   "learnerVariantDashboard.program": "Chương trình",
   "learnerVariantDashboard.discoverNew": "Khám phá mới",
   "learnerVariantDashboard.logoAltText": "Bảng điều khiển edX, Inc.",
@@ -57,16 +56,16 @@
   "learner-dash.selectSession.leaveSessionOption": "Rời khỏi phiên",
   "learner-dash.selectSession.nevermind": "Đừng bận tâm",
   "learner-dash.selectSession.confirmSession": "Xác nhận phiên",
-  "learner-dash.unenrollConfirm.reasons.prereqs": "",
-  "learner-dash.unenrollConfirm.reasons.difficulty": "",
-  "learner-dash.unenrollConfirm.reasons.goals": "",
-  "learner-dash.unenrollConfirm.reasons.broken": "",
-  "learner-dash.unenrollConfirm.reasons.time": "",
-  "learner-dash.unenrollConfirm.reasons.browse": "",
-  "learner-dash.unenrollConfirm.reasons.support": "",
-  "learner-dash.unenrollConfirm.reasons.quality": "",
-  "learner-dash.unenrollConfirm.reasons.easy": "",
-  "learner-dash.unenrollConfirm.reasons.custom-placeholder": "",
+  "learner-dash.unenrollConfirm.reasons.prereqs": "Tôi không có đủ điều kiện tiên quyết về học thuật hoặc ngôn ngữ",
+  "learner-dash.unenrollConfirm.reasons.difficulty": "Nội dung khóa học quá khó",
+  "learner-dash.unenrollConfirm.reasons.goals": "Khóa học này không giúp tôi đạt mục tiêu",
+  "learner-dash.unenrollConfirm.reasons.broken": "Có thứ gì đó bị lỗi",
+  "learner-dash.unenrollConfirm.reasons.time": "Tôi không có thời gian",
+  "learner-dash.unenrollConfirm.reasons.browse": "Tôi chỉ muốn xem qua tài liệu",
+  "learner-dash.unenrollConfirm.reasons.support": "Tôi không nhận đủ hỗ trợ",
+  "learner-dash.unenrollConfirm.reasons.quality": "Tôi không hài lòng với chất lượng nội dung",
+  "learner-dash.unenrollConfirm.reasons.easy": "Nội dung khóa học quá dễ",
+  "learner-dash.unenrollConfirm.reasons.custom-placeholder": "Khác",
   "learner-dash.unenrollConfirm.reasons.prefer-not-to-say": "Tôi không muốn nói ra",
   "WidgetSidebar.lookingForChallengePrompt": "Tìm kiếm một thách thức mới?",
   "WidgetSidebar.findCoursesButton": "Tìm khóa học {arrow}",
@@ -146,5 +145,17 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "Xem tín dụng",
   "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết",
   "learner-dash.courseCard.progressBar.courseCompletion": "Khóa học • {percent}% Hoàn thành",
-  "learner-dash.courseCard.progressBar.notStarted": "Chưa bắt đầu"
+  "learner-dash.courseCard.progressBar.notStarted": "Chưa bắt đầu",
+"learnerVariantDashboard.wishlist": "Danh sách mong muốn",
+"learnerDashboard.programCard.courses": "{numCourses} khóa học",
+"learnerDashboard.programCard.duration": "{numWeeks} tuần",
+"learnerDashboard.programCard.logoAlt": "Logo {provider}",
+"learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} chương trình liên quan",
+"learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} chương trình liên quan",
+"learnerDashboard.programCard.bannerAlt": "",
+
+
+
+
+  "learnerVariantDashboard.course": "bảng điều khiển"
 }

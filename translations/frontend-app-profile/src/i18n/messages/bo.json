@@ -3,8 +3,8 @@
   "profile.certificate.organization.label": "ནས་",
   "profile.certificate.completion.date.label": "ཟླ་ཚེས་ {date} ཉིན་ཆ་ཚང་གྲུབ།",
   "profile.certificate.uuid": "སྤྱི་མིང་ཨང་ {certificate_uuid}",
-  "profile.your.certificates": "",
-  "profile.certificates.description": "",
+  "profile.your.certificates": "ཁྱེད་ཀྱི་ལག་འཁྱེར་ཁག",
+  "profile.certificates.description": "ཁྱེད་ཀྱི་སློབ་གཉེར་ཟིན་ཐོ་ཁྱེད་རང་གཅིག་པུས་མ་གཏོགས་མཐོང་མི་ཐུབ། {siteName} སྟེང་གཞན་གྱིས་ཁྱེད་ཀྱི་བཀོལ་སྤྱོད་མིང་དང་ངོ་སྤྲོད་པར་རིས་ཁོ་ན་མཐོང་ཐུབ།",
   "profile.no.certificates": "ཁྱེད་ལ་ད་དུང་ལག་ཁྱེར་གང་ཡང་མི་འདུག",
   "profile.certificates.my.certificates": "ངའི་ལག་ཁྱེར་ཁག",
   "profile.certificates.view.certificate": "ལག་འཁྱེར་སྟོན།",
@@ -37,7 +37,7 @@
   "profile.name.full.name": "མིང་ཧྲིལ་བོ།",
   "profile.name.empty": "མིང་གང་རབས་བསྐྱོད།",
   "profile.name.tooltip": "མིང་འདི་ནི་ཁྱེད་ཀྱི་ ID ཡི་ཁུངས་སྐྱེལ་ལ་བཀོལ་རྒྱུ་མ་ཟད་ཁྱེད་ཀྱི་ལག་ཁྱེར་གྱི་སྟེང་ལ་ཡང་འགོད་རྒྱུ་ཡིན།",
-  "profile.name.redirect": "",
+  "profile.name.redirect": "རྩིས་ཁྲའི་ཤོག་ངོས་ནས་མིང་ཆ་ཚང་བཟོ་བཅོས་གནང་རོགས།",
   "profile.preferredlanguage.empty": "སྐད་ཡིག་སྣོན།",
   "profile.preferredlanguage.label": "གཞི་རྩའི་ཁ་སྐད།",
   "profile.profileavatar.upload-button": "འདྲ་པར་ཡར་འཇུག་བྱོས།",
@@ -55,5 +55,7 @@
   "profile.formcontrols.button.saving": "ཉར་བཞིན་ཡོད།",
   "profile.formcontrols.button.saved": "ཉར་ཟིན།",
   "profile.visibility.who.just.me": "ང་ཁོ་ན་ཡིན།",
-  "profile.visibility.who.everyone": "འདིའི་ {siteName} ནང་གི་མི་ཚང་མ།"
+  "profile.visibility.who.everyone": "འདིའི་ {siteName} ནང་གི་མི་ཚང་མ།",
+"tooltip-top": "འདྲ་པར་ཡར་འཇུག་བྱོས།",
+"social-error-feedback": "{network} གི་གསལ་སྡུད་ཁང་། ཁ་སྐོང་རྒྱབ།"
 }

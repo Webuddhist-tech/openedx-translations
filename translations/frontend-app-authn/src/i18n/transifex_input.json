@@ -178,5 +178,23 @@
   "complete.your.profile.2": "your profile",
   "register.page.terms.of.service.and.honor.code": "By creating an account, you agree to the {tosAndHonorCode} and you acknowledge that {platformName} and each Member process your personal data in accordance with the {privacyPolicy}.",
   "register.page.honor.code": "I agree to the {platformName}&nbsp;{tosAndHonorCode}",
-  "register.page.terms.of.service": "I agree to the {platformName}&nbsp;{termsOfService}"
+  "register.page.terms.of.service": "I agree to the {platformName}&nbsp;{termsOfService}",
+"honor-code": "I agree to the {platformName}&nbsp;{tosAndHonorCode}",
+"terms-of-service": "I agree to the {platformName}&nbsp;{termsOfService}",
+"forgot.password.page.email.field.placeholder": "Enter your email",
+"login.welcome.back": "Welcome back",
+"login.register.prompt": "Register for new account.",
+"login.sign.up": "Sign Up",
+"login.user.identity.placeholder": "Enter your email or username",
+"logistration.create.account": "Create an account",
+"logistration.already.have.account": "Already have one?",
+
+
+
+
+"authn.brand.learn": "Learn",
+"authn.brand.practice": "Practice",
+"authn.brand.connect": "Connect",
+"authn.brand.tagline": "Centuries of wisdom, thoughtfully brought to your learning journey.",
+"login.continue.practice": "Sign in to continue your practice"
 }

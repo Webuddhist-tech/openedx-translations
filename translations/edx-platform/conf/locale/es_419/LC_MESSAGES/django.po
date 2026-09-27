@@ -3,28 +3,28 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -34,12 +34,12 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.17.0\n"
-"Language: es_419\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
 msgid "Course team user does not exist"
@@ -24975,7 +24975,7 @@ msgstr "Instituciones"
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr "Registrate gratis"
+msgstr "Regístrate gratis"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
@@ -27805,3 +27805,66 @@ msgstr "No tienes cursos en tu lista de deseos."
 
 msgid "Open Course"
 msgstr "Curso abierto"
+
+# =============================================================================
+# WBA Sherab rebrand — LMS only (django.po). Sherab-theme template sources.
+# Not MFE. After editing: atlas pull → edx-platform/conf/locale → compile .mo
+# =============================================================================
+# Navbar Section (Header) — Discover new
+#: themes/Sherab-theme/lms/templates/header/navbar-authenticated.html:47
+#: themes/Sherab-theme/lms/templates/header/navbar-authenticated.html:122
+msgid "Discover new"
+msgstr "Descubre lo nuevo"
+
+# Footer — Know more
+#: themes/Sherab-theme/lms/templates/footer.html:37
+msgid "Know more"
+msgstr "Conoce más"
+
+# Footer — Learn
+#: themes/Sherab-theme/lms/templates/footer.html:51
+#: themes/Sherab-theme/lms/templates/footer.html:56
+msgid "Learn"
+msgstr "Aprender"
+
+# Footer — Download our app
+#: themes/Sherab-theme/lms/templates/footer.html:65
+msgid "Download our app"
+msgstr "Descarga nuestra aplicación"
+
+# Footer — Schools & Partners
+#: themes/Sherab-theme/lms/templates/footer.html:58
+msgid "Schools & Partners"
+msgstr "Escuelas y Socios"
+
+# Footer — Become a Course Partner
+#: themes/Sherab-theme/lms/templates/footer.html:59
+msgid "Become a Course Partner"
+msgstr "Conviértete en socio de cursos"
+
+# Footer Tagline
+#: themes/Sherab-theme/lms/templates/footer.html:32
+msgid ""
+"A global platform for authentic Buddhist education, connecting students with"
+" qualified teachers and institutions."
+msgstr ""
+"Una plataforma global de educación budista auténtica que conecta a "
+"estudiantes con maestros calificados e instituciones."
+
+msgid "Get it on"
+msgstr "Consíguelo en"
+
+msgid "Download on the"
+msgstr "Descárgalo en"
+
+msgid "Google Play"
+msgstr "Google Play"
+
+msgid "App Store"
+msgstr "App Store"
+
+msgid "Get it on Google Play"
+msgstr "Consíguelo en Google Play"
+
+msgid "Download on the App Store"
+msgstr "Descárgalo en App Store"
