@@ -344,6 +344,9 @@
 "profile-manager-warning": "Les paramètres de votre Compte sont gérés par {managerTitle}. Si le nom sur votre pièce d'identité avec photo ne correspond pas au nom de votre Compte, veuillez contacter votre administrateur {profileDataManager} ou {support} pour obtenir de l'aide.",
 "submit-button": "Modifier {sr}",
 
+
+
+
   "account.settings.section.linked.accounts.description": "Connectez-vous plus rapidement en associant un compte que vous utilisez déjà.",
   "account.settings.section.social.media.description": "Affiché sur votre profil public. Laissez vide pour le garder privé."
 }

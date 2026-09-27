@@ -344,6 +344,9 @@
 "profile-manager-warning": "Your account settings are managed by {managerTitle}. If the name on your photo ID does not match the name on your account, please contact your {profileDataManager} administrator or {support} for help.",
 "submit-button": "Edit {sr}",
 
+
+
+
   "account.settings.section.linked.accounts.description": "Sign in faster by linking an account you already use.",
   "account.settings.section.social.media.description": "Shown on your public profile. Leave blank to keep them private."
 }

@@ -344,6 +344,9 @@
 "profile-manager-warning": "Cài đặt tài khoản của bạn được quản lý bởi {managerTitle} . Nếu tên trên ID ảnh không khớp với tên trên tài khoản của bạn, vui lòng liên hệ với quản trị viên {profileDataManager} hoặc {support} để được trợ giúp.",
 "submit-button": "Chỉnh sửa {sr}",
 
+
+
+
   "account.settings.section.linked.accounts.description": "Đăng nhập nhanh hơn bằng cách liên kết tài khoản bạn đang sử dụng.",
   "account.settings.section.social.media.description": "Hiển thị trên hồ sơ công khai của bạn. Để trống nếu bạn muốn giữ riêng tư."
 }

@@ -3,8 +3,8 @@
 The JSON translation catalogs cannot contain comments or named sections without
 creating invalid data for Atlas/Transifex. For that reason, the WBA-owned
 entries below are kept as the final property block in both the source catalog
-(`transifex_input.json`) and each matching WBA locale JSON file. A blank line
-separates that final block from the standard Open edX catalog entries.
+(`transifex_input.json`) and each matching WBA locale JSON file. Four blank
+lines separate that final block from the standard Open edX catalog entries.
 
 This document is the label for that JSON block and the migration checklist for
 future Tutor/Open edX updates. Do not add a marker key to a translation JSON

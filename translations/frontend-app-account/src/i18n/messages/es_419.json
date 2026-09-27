@@ -344,6 +344,9 @@
 "profile-manager-warning": "La configuración de tu perfil es administrada por {managerTitle}. Por lo tanto si el nombre en tu ID de foto coincide con tu nombre de cuenta por favor ponte en contacto con tu administrador de {profileDataManager} o con {soporte} para solicitar ayuda.",
 "submit-button": "Editar {sr}",
 
+
+
+
   "account.settings.section.linked.accounts.description": "Inicia sesión más rápido vinculando una cuenta que ya uses.",
   "account.settings.section.social.media.description": "Se muestra en tu perfil público. Déjalo en blanco para mantenerlo privado."
 }

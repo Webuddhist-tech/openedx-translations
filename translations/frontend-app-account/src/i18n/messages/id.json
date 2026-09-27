@@ -344,6 +344,9 @@
 "profile-manager-warning": "Pengaturan akun Anda dikelola oleh {managerTitle}. Jika nama pada ID foto Anda tidak sesuai dengan nama pada akun Anda, silakan hubungi administrator {profileDataManager} Anda atau {support} untuk bantuan.",
 "submit-button": "Edit {sr}",
 
+
+
+
   "account.settings.section.linked.accounts.description": "Masuk lebih cepat dengan menautkan akun yang sudah Anda gunakan.",
   "account.settings.section.social.media.description": "Ditampilkan di profil publik Anda. Biarkan kosong agar tetap privat."
 }

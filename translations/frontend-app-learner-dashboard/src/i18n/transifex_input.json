@@ -154,5 +154,8 @@
 "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} Related Programs",
 "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} Related Program",
 
+
+
+
   "learnerVariantDashboard.course": "Dashboard"
 }
