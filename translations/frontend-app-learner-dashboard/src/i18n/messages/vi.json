@@ -34,7 +34,6 @@
   "learnerVariantDashboard.menu.account.label": "Tài khoản",
   "learnerVariantDashboard.menu.orderHistory.label": "lịch sử đơn hàng",
   "learnerVariantDashboard.menu.signOut.label": "Đăng xuất",
-  "learnerVariantDashboard.course": "bảng điều khiển",
   "learnerVariantDashboard.program": "Chương trình",
   "learnerVariantDashboard.discoverNew": "Khám phá mới",
   "learnerVariantDashboard.logoAltText": "Bảng điều khiển edX, Inc.",
@@ -153,5 +152,7 @@
 "learnerDashboard.programCard.logoAlt": "Logo {provider}",
 "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} chương trình liên quan",
 "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} chương trình liên quan",
-"learnerDashboard.programCard.bannerAlt": ""
+"learnerDashboard.programCard.bannerAlt": "",
+
+  "learnerVariantDashboard.course": "bảng điều khiển"
 }

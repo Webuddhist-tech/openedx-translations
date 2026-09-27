@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "我同意{platformName} {termsOfService}",
 "honor-code": "我同意{platformName} {tosAndHonorCode}",
 "terms-of-service": "我同意{platformName} {termsOfService}",
-"authn.brand.learn": "学习",
-"authn.brand.practice": "实践",
-"authn.brand.connect": "连接",
-"authn.brand.tagline": "数百年的智慧，悉心融入您的学习之旅。",
 "forgot.password.page.email.field.placeholder": "输入你的电子邮箱",
 "login.welcome.back": "欢迎回来",
-"login.continue.practice": "登录以继续您的修习",
 "login.register.prompt": "注册新账户。",
 "login.sign.up": "注册",
 "login.user.identity.placeholder": "输入邮箱或用户名",
 "logistration.create.account": "创建账户",
-"logistration.already.have.account": "已有账户？"
+"logistration.already.have.account": "已有账户？",
+
+"authn.brand.learn": "学习",
+"authn.brand.practice": "实践",
+"authn.brand.connect": "连接",
+"authn.brand.tagline": "数百年的智慧，悉心融入您的学习之旅。",
+"login.continue.practice": "登录以继续您的修习"
 }

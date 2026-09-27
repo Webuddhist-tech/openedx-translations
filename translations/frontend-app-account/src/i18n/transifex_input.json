@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "Profile Information",
   "account.settings.section.site.preferences": "Site Preferences",
   "account.settings.section.linked.accounts": "Linked Accounts",
-  "account.settings.section.linked.accounts.description": "Sign in faster by linking an account you already use.",
   "account.settings.field.username": "Username",
   "account.settings.field.username.help.text": "The name that identifies you on {siteName}. You cannot change your username.",
   "account.settings.field.full.name": "Full name",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "All time zones",
   "account.settings.field.time.zone.country": "Country time zones",
   "account.settings.section.social.media": "Social Media Links",
-  "account.settings.section.social.media.description": "Shown on your public profile. Leave blank to keep them private.",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "Add LinkedIn profile",
   "account.settings.jump.nav.delete.account": "Delete My Account",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "Connect",
 "account.settings.sso.disconnect.account": "Disconnect",
 "profile-manager-warning": "Your account settings are managed by {managerTitle}. If the name on your photo ID does not match the name on your account, please contact your {profileDataManager} administrator or {support} for help.",
-"submit-button": "Edit {sr}"
+"submit-button": "Edit {sr}",
+
+  "account.settings.section.linked.accounts.description": "Sign in faster by linking an account you already use.",
+  "account.settings.section.social.media.description": "Shown on your public profile. Leave blank to keep them private."
 }

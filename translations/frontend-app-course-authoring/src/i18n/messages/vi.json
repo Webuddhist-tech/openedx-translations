@@ -2891,6 +2891,10 @@
 "course-authoring.library-authoring.subsection-sidebar.hierarchy-publisher.publish-parent-warning": "Xác nhận xuất bản",
 "library-team-unknown-role": "",
 "course-authoring.library-authoring.container.settings.alert.message": "Không thể cấu hình cài đặt mục trong Thư viện và phải được thiết lập trong một khóa học. Trong phiên bản tương lai, Thư viện có thể hỗ trợ cấu hình một số cài đặt.",
+"header.links.courseModes": "Chế độ khóa học",
+"header.label.search.nav": "Tìm kiếm nội dung",
+"request-pii-sharing": "Chọn một kế hoạch",
+
 "course-authoring.ai-course-creator.launch.button": "Tạo bằng trợ lý AI",
 "course-authoring.ai-course-creator.launch.description": "Để SherabAI phỏng vấn bạn và tự động xây dựng dàn ý khóa học.",
 "course-authoring.ai-course-creator.modal.title": "SherabAI · Thiết kế khóa học AI",
@@ -2938,8 +2942,5 @@
 "course-authoring.ai-course-creator.section.apply.ready": "Thay đổi sẵn sàng áp dụng (đã lưu bản nháp).",
 "course-authoring.ai-course-creator.section.applying": "Đang áp dụng…",
 "course-authoring.ai-course-creator.section.apply.success": "Đã cập nhật “{sectionName}”: {updated} chỉnh sửa, {created} thêm, {deleted} xóa.",
-"course-authoring.ai-course-creator.section.close": "Đóng",
-"header.links.courseModes": "Chế độ khóa học",
-"header.label.search.nav": "Tìm kiếm nội dung",
-"request-pii-sharing": "Chọn một kế hoạch"
+"course-authoring.ai-course-creator.section.close": "Đóng"
 }

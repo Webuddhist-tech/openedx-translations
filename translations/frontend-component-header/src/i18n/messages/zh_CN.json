@@ -1,5 +1,4 @@
 {
-  "header.links.courses": "课程面板",
   "header.links.programs": "项目",
   "header.links.content.search": "马上探索课程",
   "header.links.schools": "学校与合作伙伴",
@@ -7,9 +6,6 @@
   "header.user.menu.profile": "用户资料",
   "header.user.menu.account.settings": "账号",
   "header.user.menu.order.history": "订单记录",
-  "header.user.menu.logout": "退出",
-  "header.user.menu.login": "登录",
-  "header.user.menu.register": "免费注册",
   "header.user.menu.studio.home": "Studio 主页",
   "header.label.account.nav": "账号",
   "header.label.account.menu": "账户菜单",
@@ -33,6 +29,11 @@
   "header.user.menu.studio": "Studio 主页",
   "header.label.courseOutline": "返回 Studio 中的课程大纲",
   "header.label.search.nav": "搜索内容",
+
+  "header.links.courses": "课程面板",
+  "header.user.menu.logout": "退出",
+  "header.user.menu.login": "登录",
+  "header.user.menu.register": "免费注册",
 "header.user.menu.studio.maintenance": "维护",
 "header.label.language.menu": "更改语言",
 "header.label.language.heading": "语言",

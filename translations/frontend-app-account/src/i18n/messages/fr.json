@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "Informations sur le Profil",
   "account.settings.section.site.preferences": "Préférences du site",
   "account.settings.section.linked.accounts": "Comptes liés",
-  "account.settings.section.linked.accounts.description": "Connectez-vous plus rapidement en associant un compte que vous utilisez déjà.",
   "account.settings.field.username": "Nom D'utilisateur",
   "account.settings.field.username.help.text": "Le nom qui vous identifie sur {siteName}. Vous ne pouvez pas modifier votre nom d'utilisateur.",
   "account.settings.field.full.name": "Nom complet",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "Tous les fuseaux horaires",
   "account.settings.field.time.zone.country": "Fuseaux horaires des pays",
   "account.settings.section.social.media": "Liens vers les réseaux sociaux",
-  "account.settings.section.social.media.description": "Affiché sur votre profil public. Laissez vide pour le garder privé.",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "Ajouter un profil LinkedIn",
   "account.settings.jump.nav.delete.account": "Supprimer mon Compte",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "Relier",
 "account.settings.sso.disconnect.account": "Déconnecter",
 "profile-manager-warning": "Les paramètres de votre Compte sont gérés par {managerTitle}. Si le nom sur votre pièce d'identité avec photo ne correspond pas au nom de votre Compte, veuillez contacter votre administrateur {profileDataManager} ou {support} pour obtenir de l'aide.",
-"submit-button": "Modifier {sr}"
+"submit-button": "Modifier {sr}",
+
+  "account.settings.section.linked.accounts.description": "Connectez-vous plus rapidement en associant un compte que vous utilisez déjà.",
+  "account.settings.section.social.media.description": "Affiché sur votre profil public. Laissez vide pour le garder privé."
 }

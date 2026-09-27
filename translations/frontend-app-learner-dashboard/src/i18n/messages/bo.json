@@ -34,7 +34,6 @@
   "learnerVariantDashboard.menu.account.label": "ཁ་བྱང་།",
   "learnerVariantDashboard.menu.orderHistory.label": "ལོ་རྒྱུས་ཀྱི་གོ་རིམ་སྒྲིག",
   "learnerVariantDashboard.menu.signOut.label": "ཕྱིར་ཐོན།",
-  "learnerVariantDashboard.course": "གཙོ་ངོས།",
   "learnerVariantDashboard.program": "ལས་རིམ་ཁག",
   "learnerVariantDashboard.discoverNew": "ཞིབ་གཟིགས།",
   "learnerVariantDashboard.logoAltText": "edX, Inc. ཡི་གཙོ་ངོས།",
@@ -153,5 +152,7 @@
 "learnerDashboard.programCard.logoAlt": "{provider} ལས་རྟགས།",
 "learner-dash.courseCard.relatedProgramsBadge.label.singular": "འབྲེལ་ཡོད་སློབ་རིམ་ {numPrograms}",
 "learnerDashboard.programCard.bannerAlt": "",
-"learner-dash.courseCard.relatedProgramsBadge.label.plural": "འབྲེལ་ཡོད་སློབ་རིམ་ {numPrograms}"
+"learner-dash.courseCard.relatedProgramsBadge.label.plural": "འབྲེལ་ཡོད་སློབ་རིམ་ {numPrograms}",
+
+  "learnerVariantDashboard.course": "གཙོ་ངོས།"
 }

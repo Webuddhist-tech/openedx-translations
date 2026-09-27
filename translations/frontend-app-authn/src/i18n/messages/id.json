@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "Saya menyetujui {platformName} {termsOfService}",
 "honor-code": "Saya setuju dengan {platformName} {tosAndHonorCode}",
 "terms-of-service": "Saya menyetujui {platformName} {termsOfService}",
-"authn.brand.learn": "Belajar",
-"authn.brand.practice": "Berlatih",
-"authn.brand.connect": "Menghubungkan",
-"authn.brand.tagline": "Kebijaksanaan selama berabad-abad, disampaikan dengan penuh perhatian dalam perjalanan belajar Anda.",
 "forgot.password.page.email.field.placeholder": "Masukkan email Anda",
 "login.welcome.back": "Selamat datang kembali",
-"login.continue.practice": "Masuk untuk melanjutkan latihan Anda",
 "login.register.prompt": "Daftar untuk akun baru.",
 "login.sign.up": "Daftar",
 "login.user.identity.placeholder": "Masukkan email atau nama pengguna Anda",
 "logistration.create.account": "Buat akun",
-"logistration.already.have.account": "Sudah punya akun?"
+"logistration.already.have.account": "Sudah punya akun?",
+
+"authn.brand.learn": "Belajar",
+"authn.brand.practice": "Berlatih",
+"authn.brand.connect": "Menghubungkan",
+"authn.brand.tagline": "Kebijaksanaan selama berabad-abad, disampaikan dengan penuh perhatian dalam perjalanan belajar Anda.",
+"login.continue.practice": "Masuk untuk melanjutkan latihan Anda"
 }

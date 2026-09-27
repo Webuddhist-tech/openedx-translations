@@ -1,5 +1,4 @@
 {
-  "header.links.courses": "གཙོ་ངོས།",
   "header.links.programs": "ལས་རིམ་ཁག",
   "header.links.content.search": "ཞིབ་གཟིགས།",
   "header.links.schools": "སློབ་གྲྭ་ཁག་དང་མཉམ་ལས་ཟླ་གྲོགས།",
@@ -7,9 +6,6 @@
   "header.user.menu.profile": "ངོ་སྤྲོད་སྙིང་བསྡུས།",
   "header.user.menu.account.settings": "ཁ་བྱང།",
   "header.user.menu.order.history": "ལོ་རྒྱུས་ཀྱི་གོ་རིམ་སྒྲིག",
-  "header.user.menu.logout": "ཕྱིར་ཐོན།",
-  "header.user.menu.login": "ནང་འཛུལ།",
-  "header.user.menu.register": "ཐོ་འགོད་བྱོས།",
   "header.user.menu.studio.home": "Studio་གཙོ་ངོས།",
   "header.label.account.nav": "ཁ་བྱང།",
   "header.label.account.menu": "ཁ་བྱང་ཐོ་གཞུང་།",
@@ -33,6 +29,11 @@
   "header.user.menu.studio": "Studio་གཙོ་ངོས།",
   "header.label.courseOutline": "Studio་ནང་གི་སློབ་ཚན་གྱི་སྡེ་ཚན་ས་བཅད་ཀྱི་མཚམས་སུ་ཕྱིར་ལོག",
   "header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།",
+
+  "header.links.courses": "གཙོ་ངོས།",
+  "header.user.menu.logout": "ཕྱིར་ཐོན།",
+  "header.user.menu.login": "ནང་འཛུལ།",
+  "header.user.menu.register": "ཐོ་འགོད་བྱོས།",
 "header.user.menu.studio.maintenance": "སྲུང་སྐྱོང།",
 "header.label.language.menu": "སྐད་ཡིག་བརྗེ་བ།",
 "header.label.language.heading": "སྐད་ཡིག།",

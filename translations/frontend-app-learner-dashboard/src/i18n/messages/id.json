@@ -34,7 +34,6 @@
   "learnerVariantDashboard.menu.account.label": "Akun",
   "learnerVariantDashboard.menu.orderHistory.label": "Runtutan Pesanan",
   "learnerVariantDashboard.menu.signOut.label": "Keluar",
-  "learnerVariantDashboard.course": "Dasbor",
   "learnerVariantDashboard.program": "Program",
   "learnerVariantDashboard.discoverNew": "Temukan Baru",
   "learnerVariantDashboard.logoAltText": "Dasbor edX, Inc.",
@@ -153,5 +152,7 @@
 "learnerDashboard.programCard.logoAlt": "Logo {provider}",
 "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} program terkait",
 "learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} program terkait",
-"learnerDashboard.programCard.bannerAlt": ""
+"learnerDashboard.programCard.bannerAlt": "",
+
+  "learnerVariantDashboard.course": "Dasbor"
 }

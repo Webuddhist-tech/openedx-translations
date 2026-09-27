@@ -2891,6 +2891,10 @@
 "course-authoring.library-authoring.subsection-sidebar.hierarchy-publisher.publish-parent-warning": "确认发表",
 "library-team-unknown-role": "",
 "course-authoring.library-authoring.container.settings.alert.message": "圖書館中無法配置章節設置，必須在課程中設置。在未來的版本中，圖書館可能會支持配置某些設置。",
+"header.links.courseModes": "课程模式",
+"header.label.search.nav": "搜索内容",
+"request-pii-sharing": "选择计划",
+
 "course-authoring.ai-course-creator.launch.button": "使用 AI 助手创建",
 "course-authoring.ai-course-creator.launch.description": "让 SherabAI 访谈您并自动构建课程大纲。",
 "course-authoring.ai-course-creator.modal.title": "SherabAI · AI 课程设计器",
@@ -2938,8 +2942,5 @@
 "course-authoring.ai-course-creator.section.apply.ready": "更改已可应用（已保存为草稿）。",
 "course-authoring.ai-course-creator.section.applying": "正在应用…",
 "course-authoring.ai-course-creator.section.apply.success": "已更新“{sectionName}”：编辑 {updated} 项，新增 {created} 项，移除 {deleted} 项。",
-"course-authoring.ai-course-creator.section.close": "关闭",
-"header.links.courseModes": "课程模式",
-"header.label.search.nav": "搜索内容",
-"request-pii-sharing": "选择计划"
+"course-authoring.ai-course-creator.section.close": "关闭"
 }

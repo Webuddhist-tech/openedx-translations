@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "Información del perfil",
   "account.settings.section.site.preferences": "Preferencias del sitio",
   "account.settings.section.linked.accounts": "Cuentas vinculadas",
-  "account.settings.section.linked.accounts.description": "Inicia sesión más rápido vinculando una cuenta que ya uses.",
   "account.settings.field.username": "Nombre de usuario",
   "account.settings.field.username.help.text": "El nombre que lo identifica en {siteName}. No podrá cambiar el nombre de usuario.",
   "account.settings.field.full.name": "Nombre completo",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "Todas las zonas horarias",
   "account.settings.field.time.zone.country": "Zonas horarias",
   "account.settings.section.social.media": "Enlaces de redes sociales",
-  "account.settings.section.social.media.description": "Se muestra en tu perfil público. Déjalo en blanco para mantenerlo privado.",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "Agregar perfil de LinkedIn",
   "account.settings.jump.nav.delete.account": "Eliminar mi cuenta",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "Contáctanos",
 "account.settings.sso.disconnect.account": "Desconectar",
 "profile-manager-warning": "La configuración de tu perfil es administrada por {managerTitle}. Por lo tanto si el nombre en tu ID de foto coincide con tu nombre de cuenta por favor ponte en contacto con tu administrador de {profileDataManager} o con {soporte} para solicitar ayuda.",
-"submit-button": "Editar {sr}"
+"submit-button": "Editar {sr}",
+
+  "account.settings.section.linked.accounts.description": "Inicia sesión más rápido vinculando una cuenta que ya uses.",
+  "account.settings.section.social.media.description": "Se muestra en tu perfil público. Déjalo en blanco para mantenerlo privado."
 }

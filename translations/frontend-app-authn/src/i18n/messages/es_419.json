@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "Acepto las {platformName} {termsOfService}",
 "honor-code": "Acepto las {platformName} {tosAndHonorCode}",
 "terms-of-service": "Acepto las {platformName} {termsOfService}",
-"authn.brand.learn": "Aprender",
-"authn.brand.practice": "Practicar",
-"authn.brand.connect": "Contáctanos",
-"authn.brand.tagline": "Siglos de sabiduría, llevados con cuidado a su camino de aprendizaje.",
 "forgot.password.page.email.field.placeholder": "Introduce tu email",
 "login.welcome.back": "Bienvenido de nuevo",
-"login.continue.practice": "Inicie sesión para continuar su práctica",
 "login.register.prompt": "Regístrese para crear una cuenta nueva.",
 "login.sign.up": "Registrarse",
 "login.user.identity.placeholder": "Ingrese su correo o nombre de usuario",
 "logistration.create.account": "Crear una cuenta",
-"logistration.already.have.account": "¿Ya tiene una?"
+"logistration.already.have.account": "¿Ya tiene una?",
+
+"authn.brand.learn": "Aprender",
+"authn.brand.practice": "Practicar",
+"authn.brand.connect": "Contáctanos",
+"authn.brand.tagline": "Siglos de sabiduría, llevados con cuidado a su camino de aprendizaje.",
+"login.continue.practice": "Inicie sesión para continuar su práctica"
 }

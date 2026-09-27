@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "ངོ་སྤྲོད་ཆ་འཕྲིན།",
   "account.settings.section.site.preferences": "དྲ་ཚིགས་ཀྱི་འདེམས་ཚན།",
   "account.settings.section.linked.accounts": "སྦྲེལ་ཟིན་པའི་རྩིས་ཁྲ།",
-  "account.settings.section.linked.accounts.description": "ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་བཞིན་པའི་རྩིས་ཁྲ་ཞིག་མཉམ་སྦྲེལ་བྱས་ན་ནང་འཛུལ་མགྱོགས་པོ་ཡོང་ངེས།",
   "account.settings.field.username": "བཀོལ་སྤྱོད་པའི་མིང་།",
   "account.settings.field.username.help.text": "{siteName} སྟེང་ཁྱེད་རང་ངོ་སྤྲོད་བྱེད་པའི་མིང་ཡིན། འདི་བརྗེ་པོ་རྒྱག་མི་ཐུབ།",
   "account.settings.field.full.name": "མིང་ཆ་ཚང་།",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "དུས་ཚིགས་ཚང་མ།",
   "account.settings.field.time.zone.country": "རྒྱལ་ཁབ་ཀྱི་དུས་ཚིགས།",
   "account.settings.section.social.media": "སྤྱི་ཚོགས་དྲ་རྒྱའི་སྦྲེལ་ཐག",
-  "account.settings.section.social.media.description": "མི་མང་ངོ་སྤྲོད་སྟེང་སྟོན་ངེས། གསང་བ་བྱེད་འདོད་ན་སྟོང་པར་བཞག་རོགས།",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "LinkedIn ངོ་སྤྲོད་འཇུག་པ།",
   "account.settings.jump.nav.delete.account": "ངའི་རྩིས་ཁྲ་གསུབ་པ།",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "སྦྲེལ་བ།",
 "account.settings.sso.disconnect.account": "ཁ་བྲལ་བ།",
 "profile-manager-warning": "ཁྱེད་ཀྱི་རྩིས་ཁྲའི་སྒྲིག་སྟངས་དེ་ {managerTitle} ཡིས་དོ་དམ་བྱེད་ཀྱི་ཡོད། གལ་ཏེ་ལག་འཁྱེར་སྟེང་གི་མིང་དེ་རྩིས་ཁྲའི་མིང་དང་མ་མཚུངས་ཚེ། རོགས་རམ་གྱི་ཆེད་དུ་ཁྱེད་ཀྱི་ {profileDataManager} དོ་དམ་པའམ་ {support} ལ་འབྲེལ་བ་གནང་རོགས།",
-"submit-button": "བཟོ་བཅོས། {sr}"
+"submit-button": "བཟོ་བཅོས། {sr}",
+
+  "account.settings.section.linked.accounts.description": "ཁྱེད་ཀྱིས་བེད་སྤྱོད་བྱེད་བཞིན་པའི་རྩིས་ཁྲ་ཞིག་མཉམ་སྦྲེལ་བྱས་ན་ནང་འཛུལ་མགྱོགས་པོ་ཡོང་ངེས།",
+  "account.settings.section.social.media.description": "མི་མང་ངོ་སྤྲོད་སྟེང་སྟོན་ངེས། གསང་བ་བྱེད་འདོད་ན་སྟོང་པར་བཞག་རོགས།"
 }

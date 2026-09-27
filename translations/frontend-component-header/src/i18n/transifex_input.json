@@ -1,5 +1,4 @@
 {
-  "header.links.courses": "Dashboard",
   "header.links.programs": "Programs",
   "header.links.content.search": "Discover New",
   "header.links.schools": "Schools & Partners",
@@ -7,9 +6,6 @@
   "header.user.menu.profile": "Profile",
   "header.user.menu.account.settings": "Account",
   "header.user.menu.order.history": "Order History",
-  "header.user.menu.logout": "Sign Out",
-  "header.user.menu.login": "Sign in",
-  "header.user.menu.register": "Register for free",
   "header.user.menu.studio.home": "Studio Home",
   "header.label.account.nav": "Account",
   "header.label.account.menu": "Account Menu",
@@ -33,6 +29,11 @@
   "header.user.menu.studio": "Studio Home",
   "header.label.courseOutline": "Back to course outline in Studio",
   "header.label.search.nav": "Search content",
+
+  "header.links.courses": "Dashboard",
+  "header.user.menu.logout": "Sign Out",
+  "header.user.menu.login": "Sign in",
+  "header.user.menu.register": "Register for free",
 "header.user.menu.studio.maintenance": "Maintenance",
 "header.label.language.menu": "Change language",
 "header.label.language.heading": "Language",

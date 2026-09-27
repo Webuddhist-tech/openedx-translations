@@ -1,5 +1,4 @@
 {
-  "header.links.courses": "Dasbor",
   "header.links.programs": "Program",
   "header.links.content.search": "Temukan Baru",
   "header.links.schools": "Sekolah dan mitra",
@@ -7,9 +6,6 @@
   "header.user.menu.profile": "Profil",
   "header.user.menu.account.settings": "Akun",
   "header.user.menu.order.history": "Runtutan Pesanan",
-  "header.user.menu.logout": "Keluar",
-  "header.user.menu.login": "Masuk",
-  "header.user.menu.register": "Daftar gratis",
   "header.user.menu.studio.home": "Beranda Studio",
   "header.label.account.nav": "Akun",
   "header.label.account.menu": "Menu akun",
@@ -33,6 +29,11 @@
   "header.user.menu.studio": "Beranda Studio",
   "header.label.courseOutline": "Kembali ke kerangka kursus di Studio",
   "header.label.search.nav": "Cari konten",
+
+  "header.links.courses": "Dasbor",
+  "header.user.menu.logout": "Keluar",
+  "header.user.menu.login": "Masuk",
+  "header.user.menu.register": "Daftar gratis",
 "header.user.menu.studio.maintenance": "Pemeliharaan",
 "header.label.language.menu": "Ganti bahasa",
 "header.label.language.heading": "Bahasa",

@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "{platformName} {termsOfService} ཛ༠ ལ་མོས་མཐུན་ཡོད།",
 "honor-code": "{platformName} {tosAndHonorCode} ཛ༠ ལ་མོས་མཐུན་ཡོད།",
 "terms-of-service": "{platformName} {termsOfService} ཛ༠ ལ་མོས་མཐུན་ཡོད།",
-"authn.brand.learn": "སློབ་སྦྱོང།",
-"authn.brand.practice": "ལག་ལེན།",
-"authn.brand.connect": "འབྲེལ་མཐུད།",
-"authn.brand.tagline": "དུས་རབས་མང་པོའི་ཤེས་རབ། ཁྱེད་ཀྱི་སློབ་སྦྱོང་གི་ལམ་དུ་ལེགས་པར་སྦྱར་ཡོད།",
 "forgot.password.page.email.field.placeholder": "ཡིག་ཟམ་ནང་འཇུག་བྱེད་པ།",
 "login.welcome.back": "ཕྱིར་ཕེབས་པར་དགའ་བསུ།",
-"login.continue.practice": "ཉམས་ལེན་མུ་མཐུད་དུ་ནང་འཛུལ་གནང་རོགས།",
 "login.register.prompt": "རྩིས་ཁྲ་གསར་པ་ཐོ་འགོད་གནང་རོགས།",
 "login.sign.up": "ཐོ་འགོད་བྱོས།",
 "login.user.identity.placeholder": "གློག་འཕྲིན་ནམ་བཀོལ་སྤྱོད་མིང་འཇུག་རོགས།",
 "logistration.create.account": "རྩིས་ཁྲ་གསར་བཟོ།",
-"logistration.already.have.account": "རྩིས་ཁྲ་ཡོད་དམ།"
+"logistration.already.have.account": "རྩིས་ཁྲ་ཡོད་དམ།",
+
+"authn.brand.learn": "སློབ་སྦྱོང།",
+"authn.brand.practice": "ལག་ལེན།",
+"authn.brand.connect": "འབྲེལ་མཐུད།",
+"authn.brand.tagline": "དུས་རབས་མང་པོའི་ཤེས་རབ། ཁྱེད་ཀྱི་སློབ་སྦྱོང་གི་ལམ་དུ་ལེགས་པར་སྦྱར་ཡོད།",
+"login.continue.practice": "ཉམས་ལེན་མུ་མཐུད་དུ་ནང་འཛུལ་གནང་རོགས།"
 }

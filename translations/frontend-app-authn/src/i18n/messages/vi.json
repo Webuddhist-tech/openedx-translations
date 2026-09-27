@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "Tôi đồng ý với {platformName} {termsOfService}",
 "honor-code": "Tôi đồng ý với {platformName} {tosAndHonorCode}",
 "terms-of-service": "Tôi đồng ý với {platformName} {termsOfService}",
-"authn.brand.learn": "Học",
-"authn.brand.practice": "Thực hành",
-"authn.brand.connect": "Kết nối",
-"authn.brand.tagline": "Tri thức qua nhiều thế kỷ, được truyền đạt cẩn trọng trên hành trình học tập của bạn.",
 "forgot.password.page.email.field.placeholder": "Nhập email của bạn",
 "login.welcome.back": "Chào mừng trở lại",
-"login.continue.practice": "Đăng nhập để tiếp tục thực hành",
 "login.register.prompt": "Đăng ký tài khoản mới.",
 "login.sign.up": "Đăng ký",
 "login.user.identity.placeholder": "Nhập email hoặc tên người dùng",
 "logistration.create.account": "Tạo một tài khoản",
-"logistration.already.have.account": "Đã có tài khoản?"
+"logistration.already.have.account": "Đã có tài khoản?",
+
+"authn.brand.learn": "Học",
+"authn.brand.practice": "Thực hành",
+"authn.brand.connect": "Kết nối",
+"authn.brand.tagline": "Tri thức qua nhiều thế kỷ, được truyền đạt cẩn trọng trên hành trình học tập của bạn.",
+"login.continue.practice": "Đăng nhập để tiếp tục thực hành"
 }

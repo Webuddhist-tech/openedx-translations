@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "Informasi Profil",
   "account.settings.section.site.preferences": "Preferensi Situs",
   "account.settings.section.linked.accounts": "Akun yang Terhubung",
-  "account.settings.section.linked.accounts.description": "Masuk lebih cepat dengan menautkan akun yang sudah Anda gunakan.",
   "account.settings.field.username": "Nama Pengguna",
   "account.settings.field.username.help.text": "Nama yang digunakan untuk mengenali Anda pada {siteName}. Anda tidak dapat mengubah nama pengguna Anda.",
   "account.settings.field.full.name": "Nama lengkap",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "Semua Zona Waktu",
   "account.settings.field.time.zone.country": "Zona waktu negara",
   "account.settings.section.social.media": "Tautan Media Sosial",
-  "account.settings.section.social.media.description": "Ditampilkan di profil publik Anda. Biarkan kosong agar tetap privat.",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "Tambahkan profil LinkedIn",
   "account.settings.jump.nav.delete.account": "Hapus Akun Saya",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "Menghubungkan",
 "account.settings.sso.disconnect.account": "Putuskan",
 "profile-manager-warning": "Pengaturan akun Anda dikelola oleh {managerTitle}. Jika nama pada ID foto Anda tidak sesuai dengan nama pada akun Anda, silakan hubungi administrator {profileDataManager} Anda atau {support} untuk bantuan.",
-"submit-button": "Edit {sr}"
+"submit-button": "Edit {sr}",
+
+  "account.settings.section.linked.accounts.description": "Masuk lebih cepat dengan menautkan akun yang sudah Anda gunakan.",
+  "account.settings.section.social.media.description": "Ditampilkan di profil publik Anda. Biarkan kosong agar tetap privat."
 }

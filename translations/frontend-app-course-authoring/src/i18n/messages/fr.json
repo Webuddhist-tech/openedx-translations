@@ -2891,6 +2891,10 @@
 "course-authoring.library-authoring.subsection-sidebar.hierarchy-publisher.publish-parent-warning": "Confirmer la publication",
 "library-team-unknown-role": "",
 "course-authoring.library-authoring.container.settings.alert.message": "Les paramètres de section ne peuvent pas être configurés dans les bibliothèques et doivent être définis dans un cours. Dans une future version, les bibliothèques pourraient prendre en charge la configuration de certains paramètres.",
+"header.links.courseModes": "Modes de cours",
+"header.label.search.nav": "Rechercher du contenu",
+"request-pii-sharing": "Sélectionne un plan",
+
 "course-authoring.ai-course-creator.launch.button": "Créer avec l'assistant IA",
 "course-authoring.ai-course-creator.launch.description": "Laissez SherabAI vous interviewer et construire automatiquement le plan de votre cours.",
 "course-authoring.ai-course-creator.modal.title": "SherabAI · Concepteur de cours IA",
@@ -2938,8 +2942,5 @@
 "course-authoring.ai-course-creator.section.apply.ready": "Modifications prêtes à appliquer (enregistrées en brouillon).",
 "course-authoring.ai-course-creator.section.applying": "Application…",
 "course-authoring.ai-course-creator.section.apply.success": "( {sectionName} ) mis à jour : {updated} modifiés, {created} ajoutés, {deleted} supprimés.",
-"course-authoring.ai-course-creator.section.close": "Fermer",
-"header.links.courseModes": "Modes de cours",
-"header.label.search.nav": "Rechercher du contenu",
-"request-pii-sharing": "Sélectionne un plan"
+"course-authoring.ai-course-creator.section.close": "Fermer"
 }

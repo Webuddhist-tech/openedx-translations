@@ -34,7 +34,6 @@
   "learnerVariantDashboard.menu.account.label": "Compte",
   "learnerVariantDashboard.menu.orderHistory.label": "Historique des commandes",
   "learnerVariantDashboard.menu.signOut.label": "Se déconnecter",
-  "learnerVariantDashboard.course": "Tableau de bord",
   "learnerVariantDashboard.program": "Programmes",
   "learnerVariantDashboard.discoverNew": "Découvrir les nouveautés",
   "learnerVariantDashboard.logoAltText": "Tableau de bord",
@@ -153,5 +152,7 @@
 "learnerDashboard.programCard.logoAlt": "Logo {provider}",
 "learnerDashboard.programCard.bannerAlt": "",
 "learner-dash.courseCard.relatedProgramsBadge.label.plural": "{numPrograms} programmes associés",
-"learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} programme associé"
+"learner-dash.courseCard.relatedProgramsBadge.label.singular": "{numPrograms} programme associé",
+
+  "learnerVariantDashboard.course": "Tableau de bord"
 }

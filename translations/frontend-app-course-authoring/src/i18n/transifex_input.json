@@ -2891,6 +2891,10 @@
 "course-authoring.library-authoring.subsection-sidebar.hierarchy-publisher.publish-parent-warning": "Confirm Publish",
 "library-team-unknown-role": "",
 "course-authoring.library-authoring.container.settings.alert.message": "Section settings cannot be configured within Libraries and must be set within a course. In a future release, Libraries may support configuring some settings.",
+"header.links.courseModes": "Course Modes",
+"header.label.search.nav": "Search content",
+"request-pii-sharing": "Select a plan",
+
 "course-authoring.ai-course-creator.launch.button": "Create with AI assistant",
 "course-authoring.ai-course-creator.launch.description": "Let SherabAI interview you and build your course outline automatically.",
 "course-authoring.ai-course-creator.modal.title": "SherabAI · AI course designer",
@@ -2938,8 +2942,5 @@
 "course-authoring.ai-course-creator.section.apply.ready": "Changes ready to apply (saved as draft).",
 "course-authoring.ai-course-creator.section.applying": "Applying…",
 "course-authoring.ai-course-creator.section.apply.success": "Updated “{sectionName}”: {updated} edited, {created} added, {deleted} removed.",
-"course-authoring.ai-course-creator.section.close": "Close",
-"header.links.courseModes": "Course Modes",
-"header.label.search.nav": "Search content",
-"request-pii-sharing": "Select a plan"
+"course-authoring.ai-course-creator.section.close": "Close"
 }

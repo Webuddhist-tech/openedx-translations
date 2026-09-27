@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "Thông tin cá nhân",
   "account.settings.section.site.preferences": "Sở thích trang web",
   "account.settings.section.linked.accounts": "Tài khoản được liên kết",
-  "account.settings.section.linked.accounts.description": "Đăng nhập nhanh hơn bằng cách liên kết tài khoản bạn đang sử dụng.",
   "account.settings.field.username": "Tên tài khoản",
   "account.settings.field.username.help.text": "Tên nhận dạng bạn trên {siteName} . Bạn không thể thay đổi tên người dùng của bạn.",
   "account.settings.field.full.name": "Họ và tên",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "Tất cả các múi giờ",
   "account.settings.field.time.zone.country": "Múi giờ quốc gia",
   "account.settings.section.social.media": "Liên kết truyền thông xã hội",
-  "account.settings.section.social.media.description": "Hiển thị trên hồ sơ công khai của bạn. Để trống nếu bạn muốn giữ riêng tư.",
   "account.settings.field.social.platform.name.linkedin": "LinkedIn",
   "account.settings.field.social.platform.name.linkedin.empty": "Thêm hồ sơ LinkedIn",
   "account.settings.jump.nav.delete.account": "Xóa tài khoản của tôi đi",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "Kết nối",
 "account.settings.sso.disconnect.account": "Ngắt kết nối",
 "profile-manager-warning": "Cài đặt tài khoản của bạn được quản lý bởi {managerTitle} . Nếu tên trên ID ảnh không khớp với tên trên tài khoản của bạn, vui lòng liên hệ với quản trị viên {profileDataManager} hoặc {support} để được trợ giúp.",
-"submit-button": "Chỉnh sửa {sr}"
+"submit-button": "Chỉnh sửa {sr}",
+
+  "account.settings.section.linked.accounts.description": "Đăng nhập nhanh hơn bằng cách liên kết tài khoản bạn đang sử dụng.",
+  "account.settings.section.social.media.description": "Hiển thị trên hồ sơ công khai của bạn. Để trống nếu bạn muốn giữ riêng tư."
 }

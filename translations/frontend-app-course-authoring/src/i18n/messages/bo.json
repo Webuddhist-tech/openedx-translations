@@ -2891,6 +2891,10 @@
 "course-authoring.library-authoring.subsection-sidebar.hierarchy-publisher.publish-parent-warning": "ངོས་འཛིན་སྤེལ།",
 "library-team-unknown-role": "",
 "course-authoring.library-authoring.container.settings.alert.message": "སྡེ་ཚན་གྱི་སྒྲིག་སྟངས་རྣམས་དཔེ་མཛོད་ནང་བཟོ་མི་ཐུབ་པར་སློབ་ཚན་ནང་བཟོ་དགོས། མ་འོངས་པའི་འདོན་ཐེངས་ནང་། དཔེ་མཛོད་ཀྱིས་སྒྲིག་སྟངས་འགའ་ཞིག་བཟོ་བར་རྒྱབ་སྐྱོར་བྱེད་སྲིད།",
+"header.links.courseModes": "སློབ་ཚན་གྱི་རྣམ་པ།",
+"header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།",
+"request-pii-sharing": "གདམ་ཁ་རྐྱབ་",
+
 "course-authoring.ai-course-creator.launch.button": "AI རོགས་པ་དང་མཉམ་དུ་བཟོ་བ།",
 "course-authoring.ai-course-creator.launch.description": "SherabAI ལ་བཅར་འདྲི་བྱེད་དུ་བཅུག་ནས་ཁྱེད་ཀྱི་སློབ་ཚན་སྒྲོམ་གཞི་རང་བཞིན་གྱིས་བཟོ་རུ་འཇུག་རོགས།",
 "course-authoring.ai-course-creator.modal.title": "SherabAI · AI སློབ་ཚན་ཇུས་འགོད་པ།",
@@ -2938,8 +2942,5 @@
 "course-authoring.ai-course-creator.section.apply.ready": "བཟོ་བཅོས་རྣམས་ལག་བསྟར་ལ་གྲ་སྒྲིག་ཡོད། (ཟིན་བྲིས་སུ་ཉར་ཟིན།)",
 "course-authoring.ai-course-creator.section.applying": "ལག་བསྟར་བྱེད་བཞིན་པ།…",
 "course-authoring.ai-course-creator.section.apply.success": "“{sectionName}” གསར་བཅོས་བྱས་ཟིན།: {updated} བཟོ་བཅོས་བརྒྱབ་པ། {created} བསྣན་པ། {deleted} ཕྱིར་བཏོན་པ།",
-"course-authoring.ai-course-creator.section.close": "སྒོ་རྒྱོབས།",
-"header.links.courseModes": "སློབ་ཚན་གྱི་རྣམ་པ།",
-"header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།",
-"request-pii-sharing": "གདམ་ཁ་རྐྱབ་"
+"course-authoring.ai-course-creator.section.close": "སྒོ་རྒྱོབས།"
 }

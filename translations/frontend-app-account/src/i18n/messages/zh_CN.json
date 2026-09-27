@@ -13,7 +13,6 @@
   "account.settings.section.profile.information": "用户资料信息",
   "account.settings.section.site.preferences": "站点首选项",
   "account.settings.section.linked.accounts": "关联的账号",
-  "account.settings.section.linked.accounts.description": "关联您已在使用的账户，即可更快登录。",
   "account.settings.field.username": "用户名",
   "account.settings.field.username.help.text": "此名称用于在{siteName}上确认您的身份。请勿更改您的用户名。",
   "account.settings.field.full.name": "全名",
@@ -99,7 +98,6 @@
   "account.settings.field.time.zone.all": "所有时区",
   "account.settings.field.time.zone.country": "国家时区",
   "account.settings.section.social.media": "社交媒体链接",
-  "account.settings.section.social.media.description": "将显示在您的公开个人资料上。留空则保持不公开。",
   "account.settings.field.social.platform.name.linkedin": "领英",
   "account.settings.field.social.platform.name.linkedin.empty": "添加领英账户",
   "account.settings.jump.nav.delete.account": "删除我的账号",
@@ -344,5 +342,8 @@
 "account.settings.sso.connect.account": "连接",
 "account.settings.sso.disconnect.account": "断开连接",
 "profile-manager-warning": "您的帐户设置由 {managerTitle} 管理。如果您照片 ID 上的姓名与您帐户上的姓名不符，请联系您的 {profileDataManager} 管理员或 {support} 寻求帮助。",
-"submit-button": "编辑 {sr}"
+"submit-button": "编辑 {sr}",
+
+  "account.settings.section.linked.accounts.description": "关联您已在使用的账户，即可更快登录。",
+  "account.settings.section.social.media.description": "将显示在您的公开个人资料上。留空则保持不公开。"
 }

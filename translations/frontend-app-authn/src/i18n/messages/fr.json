@@ -181,16 +181,17 @@
   "register.page.terms.of.service": "J'accepte le {platformName} {termsOfService}",
 "honor-code": "J'accepte le {platformName} {tosAndHonorCode}",
 "terms-of-service": "J'accepte le {platformName} {termsOfService}",
-"authn.brand.learn": "Apprendre",
-"authn.brand.practice": "Pratiquer",
-"authn.brand.connect": "Relier",
-"authn.brand.tagline": "Des siècles de sagesse, transmis avec soin dans votre parcours d'apprentissage.",
 "forgot.password.page.email.field.placeholder": "Saisissez votre courriel",
 "login.welcome.back": "Bon retour",
-"login.continue.practice": "Connectez-vous pour poursuivre votre pratique",
 "login.register.prompt": "Inscrivez-vous pour créer un compte.",
 "login.sign.up": "S'inscrire",
 "login.user.identity.placeholder": "Saisissez votre e-mail ou nom d'utilisateur",
 "logistration.create.account": "Créer un compte",
-"logistration.already.have.account": "Vous en avez déjà un ?"
+"logistration.already.have.account": "Vous en avez déjà un ?",
+
+"authn.brand.learn": "Apprendre",
+"authn.brand.practice": "Pratiquer",
+"authn.brand.connect": "Relier",
+"authn.brand.tagline": "Des siècles de sagesse, transmis avec soin dans votre parcours d'apprentissage.",
+"login.continue.practice": "Connectez-vous pour poursuivre votre pratique"
 }
